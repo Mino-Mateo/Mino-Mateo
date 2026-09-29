@@ -1,61 +1,71 @@
-# Mateo Miño
+<a href="https://mino-mateo.github.io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img alt="Mateo Miño, investigador OSINT. Escaneo de endpoints, fuzzing, detección de filtraciones y divulgación responsable. Quito, Ecuador. Cofundador y Tech Lead de eCondor Digital." src="assets/banner-dark.svg" width="100%">
+  </picture>
+</a>
 
-**Investigador OSINT | Seguridad Digital | Tech Lead** · Quito, Ecuador
+<p align="center">
+  <b>Encuentro lo que está expuesto y lo reporto a quien debe corregirlo.</b>
+  <br><br>
+  <a href="https://mino-mateo.github.io">Portafolio</a> · <a href="https://www.linkedin.com/in/mateo-miño/">LinkedIn</a> · <a href="https://econdordigital.org">eCondor Digital</a> · <a href="mailto:mateomino08@gmail.com">mateomino08@gmail.com</a>
+</p>
 
-Soy investigador OSINT y de ciberinteligencia. Hago reconocimiento, fuzzing y escaneo de superficies expuestas para descubrir endpoints, paneles administrativos, configuraciones inseguras y filtraciones de datos en sistemas públicos. Documento cada hallazgo con trazabilidad y lo reporto a quien corresponde para que se corrija (divulgación responsable). También tomo sistemas y datos públicos y construyo herramientas que los hacen más fáciles de consultar que el original.
+Soy investigador OSINT y de ciberinteligencia. Mi especialidad es el escaneo de endpoints: con reconocimiento y fuzzing de rutas, parámetros y APIs determino si un sistema público expone datos personales o consultas abiertas. Documento cada hallazgo con trazabilidad y lo reporto a quien corresponde para que se corrija (divulgación responsable).
 
-Soy cofundador y Tech Lead de [eCondor Digital](https://econdordigital.org), donde también construimos software web y móvil a medida.
+## Método
 
-## Qué hago
-
-- **Investigación OSINT:** identificación y verificación de personas y entidades correlacionando fuentes abiertas, incluida PII expuesta en bases filtradas, con evidencia verificable para procesos legales. Investigaciones transfronterizas.
-- **Superficie expuesta y filtraciones:** detección de endpoints, paneles administrativos y configuraciones expuestas en sistemas públicos con Shodan, Censys, Nmap y herramientas propias que automatizan el reconocimiento y la documentación de hallazgos.
-- **Divulgación responsable:** los hallazgos se reportan a los responsables y se acompaña su corrección.
-- **Herramientas de inteligencia:** plataformas de indexación OSINT y visores que mejoran el acceso a información pública.
-- **Desarrollo:** web, móvil, backend, APIs y bases de datos, con la seguridad como requisito desde el diseño.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/method-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/method-light.svg">
+  <img alt="Método de trabajo en cuatro pasos: 1 reconocer fuentes abiertas y superficie expuesta, 2 escanear endpoints con fuzzing de rutas, parámetros y APIs, 3 verificar y reportar con evidencia trazable, 4 acompañar la corrección con divulgación responsable." src="assets/method-dark.svg" width="100%">
+</picture>
 
 ## Resultados
 
-- Identificación y mitigación de una fuga de datos con **1.780 registros sensibles** expuestos.
-- Detección de endpoints, paneles y configuraciones expuestas en sistemas públicos mediante reconocimiento automatizado.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/impact-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/impact-light.svg">
+  <img alt="Resultados. 1.780 registros sensibles expuestos: fuga detectada, verificada, reportada y mitigada. Divulgación responsable: cada hallazgo se reporta a quien debe corregirlo, sin nombres ni detalles técnicos hasta su corrección." src="assets/impact-dark.svg" width="100%">
+</picture>
 
 ## Proyectos
 
-| Proyecto | Área | Qué es |
+| Proyecto | Qué hace | Acceso |
 |---|---|---|
-| **Intellify** | OSINT | Plataforma de ciberinteligencia para indexación, investigación y generación de fichas OSINT. Autoría completa (React, Python, SQL). |
-| **Sistema GeoQuito** | OSINT | Visor predial mejorado sobre el geoportal público de Quito: mejores rutas, más información por predio y consulta interactiva (Python, Leaflet, ArcGIS REST API). |
-| **Spectra** | OSINT | Mejora de la herramienta OSINT Photon: mejor interfaz, más contenido y más información. |
-| **[Verificador de identificación](https://github.com/Mino-Mateo/Verificador-de-C-dula)** | Seguridad | Validación algorítmica de documentos de identidad de Ecuador, Chile, México y Brasil, sin consultar bases externas. [Demo en vivo](https://mino-mateo.github.io/#tools). |
-| **Docentra** | Desarrollo | Sistema de evaluación de docentes, administrativos y directivos: backend, cálculos y base de datos (React, Bun, PostgreSQL, .NET). |
-| **WordyGo** | Desarrollo | Plataforma multirol de ejercicios de inglés para Salazar Editores: backend, base de datos y seguridad (React, Supabase, NestJS). |
+| **Intellify** | Plataforma de ciberinteligencia: indexación, investigación y fichas OSINT | <kbd>privado</kbd> |
+| **Spectra** | Crawler OSINT con mejor interfaz y más información por objetivo | <kbd>privado</kbd> |
+| **Sistema GeoQuito** | Visor predial sobre el geoportal público de Quito, más fácil de consultar que el original | <kbd>[demo](https://mino-mateo.github.io/#tools)</kbd> |
+| **[Verificador de identificación](https://github.com/Mino-Mateo/Verificador-de-C-dula)** | Validación algorítmica de documentos de Ecuador, Chile, México y Brasil, sin bases externas | <kbd>[demo](https://mino-mateo.github.io/#tools)</kbd> |
 
-Demos interactivas: [mino-mateo.github.io](https://mino-mateo.github.io/#tools)
+<details>
+<summary>Desarrollo a medida con eCondor Digital</summary>
+
+<br>
+
+- **Docentra:** evaluación de docentes, administrativos y directivos (React, Bun, PostgreSQL, .NET).
+- **WordyGo:** plataforma multirol de ejercicios de inglés para Salazar Editores (React, Supabase, NestJS).
+
+</details>
 
 ## Herramientas
 
-**OSINT y reconocimiento:** Shodan · Censys · Nmap · theHarvester · SpiderFoot · holehe · Recon-ng · Maltego · OSINT Framework · WHOIS/RDAP · Wayback Machine · Google Dorking
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/arsenal-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/arsenal-light.svg">
+  <img alt="Herramientas por fase. Reconocimiento: Shodan, Censys, Google Dorking, theHarvester y Recon-ng. Endpoints y fuzzing: Nmap, fuzzing de rutas, parámetros y APIs, paneles expuestos y herramientas propias. Correlación: SpiderFoot, Maltego y holehe. Fuentes: Wayback Machine, WHOIS/RDAP y OSINT Framework." src="assets/arsenal-dark.svg" width="100%">
+</picture>
 
-**Desarrollo:**
+<details>
+<summary>Stack de desarrollo</summary>
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?logo=leaflet&logoColor=white)
+<br>
 
-## Formación
+Python · Bash · Linux · TypeScript · JavaScript · React · NestJS · Bun · .NET · Flutter · PostgreSQL · MySQL · MongoDB · Supabase · Leaflet · ArcGIS REST API
 
-- **Tecnólogo Superior en Desarrollo de Software**, Escuela Politécnica Nacional (2025)
-- EPN: Sistemas de Seguridad (2023) · Protección de Datos, DIGIP (2023)
+</details>
 
-## Contacto
+---
 
-[Portafolio](https://mino-mateo.github.io) · [LinkedIn](https://www.linkedin.com/in/mateo-miño/) · [eCondor Digital](https://econdordigital.org) · mateomino08@gmail.com
+<sub>Tecnólogo Superior en Desarrollo de Software, Escuela Politécnica Nacional (2025) · EPN: Sistemas de Seguridad (2023) · Protección de Datos, DIGIP (2023). Todo el trabajo publicado es autorizado o de divulgación responsable.</sub>

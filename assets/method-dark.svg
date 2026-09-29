@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-labelledby="t d">
+<title id="t">Método de trabajo</title>
+<desc id="d">Método de trabajo en cuatro pasos: 1 reconocer fuentes abiertas y superficie expuesta, 2 escanear endpoints con fuzzing de rutas, parámetros y APIs, 3 verificar y reportar con evidencia trazable, 4 acompañar la corrección con divulgación responsable.</desc>
+<style>.c{animation:up .7s cubic-bezier(.2,.7,.2,1) backwards}.a{animation:fx .5s ease-out backwards}.h{animation:fd 1.2s ease-out backwards;animation-delay:.5s}@keyframes up{from{opacity:0;transform:translateY(14px)}}@keyframes fx{from{opacity:0;transform:translateX(-8px)}}@keyframes fd{from{opacity:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#C967E8" stop-opacity=".55"/><stop offset="1" stop-color="#983AD6" stop-opacity=".15"/></linearGradient>
+<linearGradient id="bh" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FA93FA" stop-opacity="1"/><stop offset="1" stop-color="#983AD6" stop-opacity=".7"/></linearGradient>
+<filter id="bl" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+<pattern id="gr" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity=".06" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="260" fill="#010101"/>
+<rect width="1200" height="260" fill="url(#gr)"/>
+<g transform="translate(14.0 22)"><g class="c" style="animation-delay:0.10s">
+<rect x=".5" y=".5" width="265.0" height="215" rx="8" fill="#FFFFFF" fill-opacity=".04" stroke="url(#bd)" stroke-width="1"/>
+<text x="22" y="46" font-family="'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-size="24" font-weight="700" fill="#C967E8" letter-spacing="1">01</text>
+<g transform="translate(200.0 18) scale(1.8333)" fill="none" stroke="#C967E8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19.07 4.93A10 10 0 0 0 6.99 3.34"/><path d="M4 6h.01"/><path d="M2.29 9.62A10 10 0 1 0 21.31 8.35"/><path d="M16.24 7.76A6 6 0 1 0 8.23 16.67"/><path d="M12 18h.01"/><path d="M17.99 11.66A6 6 0 0 1 15.77 16.67"/><circle cx="12" cy="12" r="2"/><path d="m13.41 10.59 5.66-5.66"/></g>
+<text x="22" y="102" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="29" font-weight="700" fill="#E4E4E7">Reconocer</text>
+<text x="22" y="173" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="24" fill="#A1A1AA">Fuentes abiertas y</text>
+<text x="22" y="202" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="24" fill="#A1A1AA">superficie expuesta</text>
+</g></g>
+<g class="a" style="animation-delay:0.40s" fill="none" stroke="#C967E8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M287.0 130.0H309.0"/><path d="M302.0 123.0L309.0 130.0L302.0 137.0"/></g>
+<rect class="h" x="316.0" y="22" width="266.0" height="216" rx="12" fill="none" stroke="#983AD6" stroke-width="18" opacity=".7" filter="url(#bl)"/>
+<g transform="translate(316.0 22)"><g class="c" style="animation-delay:0.32s">
+<rect x=".5" y=".5" width="265.0" height="215" rx="8" fill="#FFFFFF" fill-opacity=".06" stroke="url(#bh)" stroke-width="1"/>
+<text x="22" y="46" font-family="'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-size="24" font-weight="700" fill="#FA93FA" letter-spacing="1">02</text>
+<g transform="translate(200.0 18) scale(1.8333)" fill="none" stroke="#FA93FA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7V5a2 2 0 0 1 2-2h2"/><path d="M17 3h2a2 2 0 0 1 2 2v2"/><path d="M21 17v2a2 2 0 0 1-2 2h-2"/><path d="M7 21H5a2 2 0 0 1-2-2v-2"/><circle cx="12" cy="12" r="3"/><path d="m16 16-1.9-1.9"/></g>
+<text x="22" y="102" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="29" font-weight="700" fill="#E4E4E7">Escanear</text>
+<text x="22" y="136" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="29" font-weight="700" fill="#E4E4E7">endpoints</text>
+<text x="22" y="173" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="24" fill="#A1A1AA">Fuzzing de rutas,</text>
+<text x="22" y="202" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="24" fill="#A1A1AA">parámetros y APIs</text>
+</g></g>
+<g class="a" style="animation-delay:0.62s" fill="none" stroke="#C967E8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M589.0 130.0H611.0"/><path d="M604.0 123.0L611.0 130.0L604.0 137.0"/></g>
+<g transform="translate(618.0 22)"><g class="c" style="animation-delay:0.54s">
+<rect x=".5" y=".5" width="265.0" height="215" rx="8" fill="#FFFFFF" fill-opacity=".04" stroke="url(#bd)" stroke-width="1"/>
+<text x="22" y="46" font-family="'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-size="24" font-weight="700" fill="#C967E8" letter-spacing="1">03</text>
+<g transform="translate(200.0 18) scale(1.8333)" fill="none" stroke="#C967E8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/><path d="m9 15 2 2 4-4"/></g>
+<text x="22" y="102" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="29" font-weight="700" fill="#E4E4E7">Verificar y</text>
+<text x="22" y="136" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="29" font-weight="700" fill="#E4E4E7">reportar</text>
+<text x="22" y="173" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="24" fill="#A1A1AA">Evidencia con</text>
+<text x="22" y="202" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="24" fill="#A1A1AA">trazabilidad</text>
+</g></g>
+<g class="a" style="animation-delay:0.84s" fill="none" stroke="#C967E8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M891.0 130.0H913.0"/><path d="M906.0 123.0L913.0 130.0L906.0 137.0"/></g>
+<g transform="translate(920.0 22)"><g class="c" style="animation-delay:0.76s">
+<rect x=".5" y=".5" width="265.0" height="215" rx="8" fill="#FFFFFF" fill-opacity=".04" stroke="url(#bd)" stroke-width="1"/>
+<text x="22" y="46" font-family="'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-size="24" font-weight="700" fill="#C967E8" letter-spacing="1">04</text>
+<g transform="translate(200.0 18) scale(1.8333)" fill="none" stroke="#C967E8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/><path d="m9 12 2 2 4-4"/></g>
+<text x="22" y="102" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="29" font-weight="700" fill="#E4E4E7">Acompañar la</text>
+<text x="22" y="136" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="29" font-weight="700" fill="#E4E4E7">corrección</text>
+<text x="22" y="173" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="24" fill="#A1A1AA">Divulgación</text>
+<text x="22" y="202" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="24" fill="#A1A1AA">responsable</text>
+</g></g>
+</svg>

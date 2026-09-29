@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-labelledby="t d">
+<title id="t">Resultados</title>
+<desc id="d">Resultados. 1.780 registros sensibles expuestos: fuga detectada, verificada, reportada y mitigada. Divulgación responsable: cada hallazgo se reporta a quien debe corregirlo, sin nombres ni detalles técnicos hasta su corrección.</desc>
+<style>.c{animation:up .7s cubic-bezier(.2,.7,.2,1) backwards}.p{transform-box:fill-box;transform-origin:center;animation:pop .45s cubic-bezier(.2,.7,.2,1.3) backwards}.n{transform-box:fill-box;transform-origin:left center;animation:grow .9s cubic-bezier(.2,.7,.2,1) .3s backwards}.l{stroke-dasharray:56;animation:draw .3s ease-out backwards}.f{animation:fd .6s ease-out backwards}@keyframes up{from{opacity:0;transform:translateY(14px)}}@keyframes pop{from{opacity:0;transform:scale(.3)}}@keyframes grow{from{opacity:0;transform:scale(.85)}}@keyframes draw{from{stroke-dashoffset:56}}@keyframes fd{from{opacity:0}}@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs>
+<linearGradient id="bd" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#C967E8" stop-opacity=".55"/><stop offset="1" stop-color="#983AD6" stop-opacity=".15"/></linearGradient>
+<linearGradient id="nm" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#C967E8"/><stop offset="1" stop-color="#FA93FA"/></linearGradient>
+<filter id="bl" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="40"/></filter>
+<pattern id="gr" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity=".06" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="300" fill="#010101"/>
+<rect width="1200" height="300" fill="url(#gr)"/>
+<circle class="f" cx="170" cy="120" r="90" fill="#983AD6" opacity=".45" filter="url(#bl)"/>
+<circle class="f" cx="1080" cy="200" r="80" fill="#983AD6" opacity="0.32" filter="url(#bl)"/>
+<g transform="translate(14.0 18)"><g class="c" style="animation-delay:0.05s">
+<rect x=".5" y=".5" width="573.0" height="263" rx="8" fill="#FFFFFF" fill-opacity=".04" stroke="url(#bd)" stroke-width="1"/>
+<text class="n" x="30" y="112" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="96" font-weight="800" letter-spacing="-2" fill="url(#nm)">1.780</text>
+<text x="34" y="154" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="27" fill="#A1A1AA">registros sensibles</text>
+<text x="34" y="187" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="27" fill="#A1A1AA">expuestos</text>
+<g class="f" style="animation-delay:1.5s"><rect x="34.5" y="206.5" width="192" height="40" rx="20" fill="#C967E8" fill-opacity=".12" stroke="#983AD6" stroke-width="1"/><g transform="translate(48 214) scale(1)" fill="none" stroke="#FA93FA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/><path d="m9 12 2 2 4-4"/></g><text x="82" y="234" font-family="'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-size="24" font-weight="700" letter-spacing="1" fill="#FA93FA">MITIGADO</text></g>
+<path d="M318 32V232" stroke="#983AD6" stroke-opacity=".35" stroke-width="1"/>
+<path class="l" style="animation-delay:0.65s" d="M356 66V94" stroke="#C967E8" stroke-width="3" stroke-linecap="round"/>
+<g class="p" style="animation-delay:0.50s"><circle cx="356" cy="52" r="14" fill="#C967E8"/><g transform="translate(347 43) scale(.75)" fill="none" stroke="#010101" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></g></g>
+<text class="f" style="animation-delay:0.50s" x="388" y="60" font-family="'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-size="24" font-weight="500" fill="#E4E4E7">Detectada</text>
+<path class="l" style="animation-delay:0.90s" d="M356 122V150" stroke="#C967E8" stroke-width="3" stroke-linecap="round"/>
+<g class="p" style="animation-delay:0.75s"><circle cx="356" cy="108" r="14" fill="#C967E8"/><g transform="translate(347 99) scale(.75)" fill="none" stroke="#010101" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></g></g>
+<text class="f" style="animation-delay:0.75s" x="388" y="116" font-family="'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-size="24" font-weight="500" fill="#E4E4E7">Verificada</text>
+<path class="l" style="animation-delay:1.15s" d="M356 178V206" stroke="#C967E8" stroke-width="3" stroke-linecap="round"/>
+<g class="p" style="animation-delay:1.00s"><circle cx="356" cy="164" r="14" fill="#C967E8"/><g transform="translate(347 155) scale(.75)" fill="none" stroke="#010101" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></g></g>
+<text class="f" style="animation-delay:1.00s" x="388" y="172" font-family="'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-size="24" font-weight="500" fill="#E4E4E7">Reportada</text>
+<circle class="f" style="animation-delay:1.25s" cx="356" cy="220" r="22" fill="#FA93FA" opacity=".22"/>
+<g class="p" style="animation-delay:1.25s"><circle cx="356" cy="220" r="14" fill="#FA93FA"/><g transform="translate(347 211) scale(.75)" fill="none" stroke="#010101" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></g></g>
+<text class="f" style="animation-delay:1.25s" x="388" y="228" font-family="'JetBrains Mono', ui-monospace, Menlo, Consolas, monospace" font-size="24" font-weight="700" fill="#E4E4E7">Mitigada</text>
+</g></g>
+<g transform="translate(612.0 18)"><g class="c" style="animation-delay:0.2s">
+<rect x=".5" y=".5" width="573.0" height="263" rx="8" fill="#FFFFFF" fill-opacity=".04" stroke="url(#bd)" stroke-width="1"/>
+<rect x="30.5" y="28.5" width="56" height="56" rx="8" fill="#C967E8" fill-opacity=".1" stroke="url(#bd)" stroke-width="1"/>
+<g transform="translate(40.5 38.5) scale(1.5)" fill="none" stroke="#C967E8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="18" height="11" x="3" y="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></g>
+<text x="106" y="68" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="700" fill="#E4E4E7">Divulgación responsable</text>
+<text x="34" y="130" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="27" fill="#E4E4E7">Cada hallazgo se reporta a quien</text>
+<text x="34" y="164" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="27" fill="#E4E4E7">debe corregirlo.</text>
+<text x="34" y="210" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="27" fill="#A1A1AA">Sin nombres ni detalles técnicos</text>
+<text x="34" y="244" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="27" fill="#A1A1AA">hasta que esté corregido.</text>
+</g></g>
+</svg>
