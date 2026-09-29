@@ -1,8 +1,8 @@
 # Mateo Miño
 
-**Tech Lead | Seguridad Digital | Analista OSINT** · Quito, Ecuador
+**Investigador OSINT | Seguridad Digital | Tech Lead** · Quito, Ecuador
 
-Me dedico a la inteligencia de fuentes abiertas (OSINT). Tomo sistemas y datos públicos, los investigo a fondo y construyo herramientas que los hacen más fáciles de consultar que el sistema original. Hago reconocimiento, escaneo y fuzzing de superficies expuestas para encontrar filtraciones y configuraciones inseguras; documento cada hallazgo con trazabilidad y lo reporto a quien corresponde para que se corrija.
+Soy investigador OSINT y de ciberinteligencia. Hago reconocimiento, fuzzing y escaneo de superficies expuestas para descubrir endpoints, paneles administrativos, configuraciones inseguras y filtraciones de datos en sistemas públicos. Documento cada hallazgo con trazabilidad y lo reporto a quien corresponde para que se corrija (divulgación responsable). También tomo sistemas y datos públicos y construyo herramientas que los hacen más fáciles de consultar que el original.
 
 Soy cofundador y Tech Lead de [eCondor Digital](https://econdordigital.org), donde también construimos software web y móvil a medida.
 
