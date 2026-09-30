@@ -36,8 +36,11 @@ Soy investigador OSINT y de ciberinteligencia. Mi especialidad es el escaneo de 
 |---|---|---|
 | **Intellify** | Plataforma de ciberinteligencia: indexación, investigación y fichas OSINT | <kbd>privado</kbd> |
 | **Spectra** | Crawler OSINT con mejor interfaz y más información por objetivo | <kbd>privado</kbd> |
-| **Sistema GeoQuito** | Visor predial sobre el geoportal público de Quito, más fácil de consultar que el original | <kbd>[demo](https://mino-mateo.github.io/#tools)</kbd> |
-| **[Verificador de identificación](https://github.com/Mino-Mateo/Verificador-de-C-dula)** | Validación algorítmica de documentos de Ecuador, Chile, México y Brasil, sin bases externas | <kbd>[demo](https://mino-mateo.github.io/#tools)</kbd> |
+| **Sistema GeoQuito** | Visor predial sobre el geoportal público de Quito, más fácil de consultar que el original | <kbd>[demo](https://mino-mateo.github.io/#demo-geoquito)</kbd> |
+| **[Ficha de dominio](https://github.com/Mino-Mateo/Ficha-de-Dominio)** | Reconocimiento pasivo: RDAP, DNS, seguridad del correo (SPF, DKIM, DMARC), subdominios por Certificate Transparency y Wayback | <kbd>[demo](https://mino-mateo.github.io/#demo-dominio)</kbd> |
+| **[Analizador EXIF](https://github.com/Mino-Mateo/Analizador-EXIF)** | Qué revela una foto (GPS, número de serie, autor) y limpieza sin recomprimir en JPEG, PNG y WebP | <kbd>[demo](https://mino-mateo.github.io/#demo-exif)</kbd> |
+| **[Verificador de identificación](https://github.com/Mino-Mateo/Verificador-de-C-dula)** | Validación algorítmica de documentos de Ecuador, Chile, México y Brasil, sin bases externas | <kbd>[demo](https://mino-mateo.github.io/#demo-cedula)</kbd> |
+| **[Verificador de tarjeta](https://github.com/Mino-Mateo/Verificador-de-Tarjeta)** | Luhn, marca e IIN de 29 redes de 17 países, con país, entidad y cobranding | <kbd>[demo](https://mino-mateo.github.io/#demo-tarjeta)</kbd> |
 
 <details>
 <summary>Desarrollo a medida con eCondor Digital</summary>
